@@ -1,0 +1,10 @@
+project_id = "gsmjlvqegxfsskhyvpdn"
+
+[functions.analyze-statement]
+verify_jwt = false
+
+[functions.parse-slip]
+verify_jwt = false
+
+[functions.ingest-slip]
+verify_jwt = false
