@@ -152,7 +152,7 @@ export function ImageBadge({ count }: { count: number }) {
       {count}
     </span>
   );
-}onClick={() => handleRemove(p)}
+onClick={() => handleRemove(p)}
 className=“absolute top-0 right-0 bg-destructive/90 text-destructive-foreground p-0.5 rounded-bl opacity-0 group-hover:opacity-100 transition”
 aria-label=“Remove image”
 >
